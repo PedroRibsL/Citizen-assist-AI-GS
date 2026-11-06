@@ -6,9 +6,9 @@ Assistente de terminal feito em Python que responde dúvidas de pessoas idosas s
 
 | Nome | RM |
 |------|----|
-| [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] |
+| Pedro Ribeiro Lopes | 570083|
+| Luan Araujo | [PREENCHER] |
+| Lana | [PREENCHER] |
 
 ## Público e problema escolhidos
 
