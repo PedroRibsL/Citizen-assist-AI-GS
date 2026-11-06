@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns", "cartao nacional de saude"],
+    "resposta": "O primeiro cadastro precisa ser feito pessoalmente, em uma UBS, na Secretaria Municipal de Saúde ou em um hospital público. Não dá para pedir o cartão novo pela internet. Depois de cadastrado, o cartão digital fica no app Meu SUS Digital (entrando com a conta gov.br), em Meu Perfil > Cartão Nacional de Saúde, e dá para salvar em PDF ou imprimir.",
+    "documentos": ["RG (documento com foto)", "CPF", "Certidão de nascimento ou casamento", "Comprovante de residência atualizado"],
+    "onde": "UBS, Secretaria Municipal de Saúde ou hospital público (cadastro novo). Cartão digital: app ou site Meu SUS Digital",
+    "fonte": "https://www.serasa.com.br/blog/cartao-sus-como-conseguir/",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Vacinas gratuitas para quem tem 60 anos ou mais",
+    "palavras_chave": ["vacina", "vacinas", "vacinacao", "gripe", "calendario de vacinacao"],
+    "resposta": "Quem tem 60 anos ou mais tem vacinas gratuitas no Calendário Nacional de Vacinação do SUS. É só ir a uma UBS.",
+    "documentos": ["Documento com foto", "Caderneta de vacinação, se tiver"],
+    "onde": "Qualquer UBS (posto de saúde)",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/vacinacao-da-pessoa-idosa",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Remédios gratuitos pelo Farmácia Popular",
+    "palavras_chave": ["farmacia popular", "remedio gratis", "remedio de graca", "remedios gratuitos", "medicamento gratuito", "medicamentos gratuitos", "remedio"],
+    "resposta": "O Farmácia Popular dá de graça 41 medicamentos e itens, como remédios para hipertensão, osteoporose e glaucoma. Não precisa de cadastro prévio. Fraldas geriátricas têm regra própria, para quem tem 60 anos ou mais.",
+    "documentos": ["Receita médica válida", "Documento oficial com foto", "CPF"],
+    "onde": "Farmácias com o selo \"Aqui tem Farmácia Popular\"",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Transporte",
+    "titulo": "Ônibus urbano gratuito para idosos",
+    "palavras_chave": ["onibus", "onibus gratis", "transporte gratuito", "passagem gratuita", "gratuidade no onibus", "transporte publico"],
+    "resposta": "Quem tem 65 anos ou mais não paga o transporte coletivo urbano e semiurbano regular. Basta mostrar um documento que comprove a idade. Algumas cidades dão a gratuidade a partir dos 60 anos, então confira a regra da sua cidade.",
+    "documentos": ["Documento pessoal que comprove a idade"],
+    "onde": "No ônibus urbano da sua cidade. Dúvidas sobre a regra local: prefeitura ou empresa de transporte",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Transporte",
+    "titulo": "Viagem interestadual grátis com a Carteira da Pessoa Idosa",
+    "palavras_chave": ["carteira do idoso", "carteira da pessoa idosa", "passe livre", "viagem interestadual", "passagem interestadual", "viajar de graca"],
+    "resposta": "Quem tem 60 anos ou mais, renda de até 2 salários mínimos e está no CadÚnico pode pedir a Carteira da Pessoa Idosa. Ela dá direito a 2 vagas gratuitas por veículo em viagens de ônibus, trem ou barco entre estados. Se as vagas acabarem, o desconto é de pelo menos 50%. Não vale para avião.",
+    "documentos": ["Conta gov.br", "Cadastro Único (CadÚnico) ativo"],
+    "onde": "Site https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso ou CRAS da sua cidade",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Previdência e benefícios",
+    "titulo": "Pedir a aposentadoria por idade",
+    "palavras_chave": ["aposentadoria", "aposentar", "aposentadoria por idade", "meu inss", "inss"],
+    "resposta": "O pedido pode ser feito pelo app ou site Meu INSS, na opção Novo Pedido, ou em uma agência. É preciso ter a idade mínima e o tempo mínimo de contribuição. Use a simulação do Meu INSS para ver se você já pode se aposentar.",
+    "documentos": ["Documento com foto", "CPF", "Carteira de trabalho e comprovantes de contribuição, se tiver"],
+    "onde": "App ou site Meu INSS, agência do INSS ou telefone 135",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Previdência e benefícios",
+    "titulo": "Prova de vida do INSS",
+    "palavras_chave": ["prova de vida", "prova da vida", "comprovacao de vida", "bloqueio do beneficio", "beneficio bloqueado"],
+    "resposta": "Hoje o INSS confirma a prova de vida automaticamente, cruzando dados, então a maioria das pessoas não precisa fazer nada. Se você for avisado, pode fazer pelo app Meu INSS ou gov.br com reconhecimento facial, ou no banco. É sempre gratuita.",
+    "documentos": ["Documento com foto", "Conta gov.br nível prata ou ouro (para fazer pelo celular)"],
+    "onde": "App Meu INSS, app gov.br ou banco onde recebe o benefício. Dúvidas: telefone 135",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/prova-de-vida",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Previdência e benefícios",
+    "titulo": "BPC/LOAS: benefício assistencial para idosos",
+    "palavras_chave": ["bpc", "loas", "beneficio assistencial", "beneficio de prestacao continuada", "salario minimo sem contribuir"],
+    "resposta": "O BPC paga 1 salário mínimo por mês a quem tem 65 anos ou mais e renda familiar baixa, mesmo sem nunca ter contribuído para o INSS. Não é aposentadoria. É preciso estar no CadÚnico.",
+    "documentos": ["Documento com foto", "CPF", "Cadastro Único (CadÚnico) atualizado"],
+    "onde": "CRAS (para o CadÚnico) e depois app/site Meu INSS ou telefone 135",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Proteção e segurança",
+    "titulo": "Denunciar violência ou maus-tratos contra pessoa idosa",
+    "palavras_chave": ["disque 100", "violencia contra idoso", "maus tratos", "denunciar violencia", "abandono", "agressao"],
+    "resposta": "Ligue 100 (Disque Direitos Humanos). A ligação é gratuita e a denúncia pode ser anônima. Pode ligar a própria vítima ou qualquer pessoa que saiba do caso. Se houver risco imediato, ligue também para a polícia (190).",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Telefone 100 (ligação gratuita)",
+    "fonte": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=787",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Proteção e segurança",
+    "titulo": "Golpes contra aposentados e pensionistas do INSS",
+    "palavras_chave": ["golpe", "golpes", "golpista", "fraude", "desconto indevido", "site falso"],
+    "resposta": "O INSS nunca pede dinheiro para liberar benefício e só fala com você pelo Meu INSS e pelo telefone 135. Nunca passe senha por telefone, SMS ou mensagem. Site oficial termina em .gov.br. Confira seu extrato todo mês. Em caso de golpe ou desconto que você não autorizou, denuncie.",
+    "documentos": ["Extrato do benefício (pelo Meu INSS)", "Prints e mensagens do golpe, se tiver"],
+    "onde": "Telefone 135, Ouvidoria do INSS (Fala.br), consumidor.gov.br ou delegacia (boletim de ocorrência)",
+    "fonte": "https://www.gov.br/inss/pt-br/assuntos/noticias/inss-alerta-aposentados-sao-vitimas-de-golpe-envolvendo-falsa-prova-de-vida",
+    "verificado_em": "2026-11-05"
+  }
+]

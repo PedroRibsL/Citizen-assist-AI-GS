@@ -1,0 +1,133 @@
+[
+  {
+    "data": "2026-11-06 09:03",
+    "origem": "categoria",
+    "pergunta": "Denunciar violência ou maus-tratos contra pessoa idosa",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 50.2,
+    "nota": null
+  },
+  {
+    "data": "2026-11-06 09:05",
+    "origem": "pergunta",
+    "pergunta": "como faço para ter remedio de graça?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 37.6,
+    "nota": null
+  },
+  {
+    "data": "2026-11-06 09:06",
+    "origem": "categoria",
+    "pergunta": "BPC/LOAS: benefício assistencial para idosos",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 46.4,
+    "nota": 5
+  },
+  {
+    "data": "2026-11-06 10:13",
+    "origem": "pergunta",
+    "pergunta": "como faço para me aposentar?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 29.0,
+    "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-06 10:13",
+    "origem": "pergunta",
+    "pergunta": "como faço prova de vida?",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 27.1,
+    "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-06 10:14",
+    "origem": "pergunta",
+    "pergunta": "tem como fazer exames gratuitos?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 37.7,
+    "nota": null,
+    "nao_encontradas": [
+      "tem como fazer exames gratuitos?"
+    ]
+  },
+  {
+    "data": "2026-11-06 10:14",
+    "origem": "categoria",
+    "pergunta": "Vacinas gratuitas para quem tem 60 anos ou mais",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 19.8,
+    "nota": 5,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-06 10:16",
+    "origem": "pergunta",
+    "pergunta": "como funciona para pegar onibus de graça?",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 64.9,
+    "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-06 10:17",
+    "origem": "categoria",
+    "pergunta": "Pedir a aposentadoria por idade",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 26.4,
+    "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-06 10:17",
+    "origem": "categoria",
+    "pergunta": "BPC/LOAS: benefício assistencial para idosos",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 14.4,
+    "nota": 5,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-06 14:41",
+    "origem": "pergunta",
+    "pergunta": "como pego remedio de graça",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 28.1,
+    "nota": null,
+    "nao_encontradas": []
+  }
+]
