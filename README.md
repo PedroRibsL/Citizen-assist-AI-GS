@@ -75,26 +75,22 @@ Exemplo: em "Como faço o cartão do SUS?", a orientação do Cartão SUS recebe
 
 Mudamos só um detalhe do que o enunciado sugeria: acrescentamos `/` e `-` na lista de sinais removidos, para "BPC/LOAS" e "maus-tratos" virarem palavras separadas.
 
-## Integração com outras disciplinas
-
-Não integramos com outras disciplinas. Focamos na parte obrigatória.
-
 ## Fontes consultadas
 
 A base tem 10 orientações em 4 categorias (Saúde, Transporte, Previdência e benefícios, Proteção e segurança). Todas foram conferidas por nós em 2026-11-05. As fontes de cada uma estão no campo `fonte` do arquivo `data/base_conhecimento.json`:
 
 | Orientação | Fonte |
 |------------|-------|
-| 1. Cartão SUS | [PREENCHER, copiar do JSON] |
+| 1. Cartão SUS | https://www.serasa.com.br/blog/cartao-sus-como-conseguir/ |
 | 2. Vacinas para quem tem 60 anos ou mais | https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/vacinacao-da-pessoa-idosa |
-| 3. Farmácia Popular | [PREENCHER, copiar do JSON] |
+| 3. Farmácia Popular | https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular |
 | 4. Ônibus urbano gratuito | https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm |
-| 5. Carteira da Pessoa Idosa (viagem interestadual) | [PREENCHER, copiar do JSON] |
+| 5. Carteira da Pessoa Idosa (viagem interestadual) | https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso ou CRAS da sua cidade |
 | 6. Aposentadoria por idade | https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano |
 | 7. Prova de vida do INSS | https://www.gov.br/governodigital/pt-br/identidade/prova-de-vida |
 | 8. BPC/LOAS | https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso |
-| 9. Disque 100 | [PREENCHER, copiar do JSON] |
-| 10. Golpes contra aposentados | [PREENCHER, copiar do JSON] |
+| 9. Disque 100 | https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=787 |
+| 10. Golpes contra aposentados | https://www.gov.br/inss/pt-br/assuntos/noticias/inss-alerta-aposentados-sao-vitimas-de-golpe-envolvendo-falsa-prova-de-vida |
 
 ## Resultado do teste com usuários
 
