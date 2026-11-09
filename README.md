@@ -7,8 +7,8 @@ Assistente de terminal feito em Python que responde dúvidas de pessoas idosas s
 | Nome | RM |
 |------|----|
 | Pedro Ribeiro Lopes | 570083|
-| Luan Araujo | [PREENCHER] |
-| Lana | [PREENCHER] |
+| Luan de Araujo Carneiro | 573691 |
+| Lana Namie Kano Ozeki | 569795 |
 
 ## Público e problema escolhidos
 
@@ -98,7 +98,7 @@ A base tem 10 orientações em 4 categorias (Saúde, Transporte, Previdência e 
 
 ## Resultado do teste com usuários
 
-Testamos o assistente com [PREENCHER: número] pessoas de fora da equipe, somando 10 atendimentos. Não registramos nomes nem dados pessoais de ninguém. Os números abaixo vêm do próprio programa (opção 3 do menu).
+Testamos o assistente com 3 pessoas de fora da equipe, somando 10 atendimentos. Não registramos nomes nem dados pessoais de ninguém. Os números abaixo vêm do próprio programa (opção 3 do menu).
 
 | Indicador | Resultado |
 |-----------|-----------|
