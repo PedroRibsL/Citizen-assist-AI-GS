@@ -119,15 +119,51 @@
     "nao_encontradas": []
   },
   {
-    "data": "2026-11-06 14:41",
-    "origem": "pergunta",
-    "pergunta": "como pego remedio de graça",
-    "id_orientacao": 3,
+    "data": "2026-11-09 08:21",
+    "origem": "categoria",
+    "pergunta": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "id_orientacao": 1,
     "encontrou": true,
     "ajudou": true,
     "tentativas": 1,
-    "tempo": 28.1,
+    "tempo": 36.6,
     "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-09 08:23",
+    "origem": "pergunta",
+    "pergunta": "aposentadoria por idade",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 31.4,
+    "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-09 08:23",
+    "origem": "categoria",
+    "pergunta": "BPC/LOAS: benefício assistencial para idosos",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 33.4,
+    "nota": null,
+    "nao_encontradas": []
+  },
+  {
+    "data": "2026-11-09 08:24",
+    "origem": "categoria",
+    "pergunta": "Ônibus urbano gratuito para idosos",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 25.0,
+    "nota": 5,
     "nao_encontradas": []
   }
 ]
