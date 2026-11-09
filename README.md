@@ -98,10 +98,10 @@ Testamos o assistente com 3 pessoas de fora da equipe, somando 10 atendimentos. 
 
 | Indicador | Resultado |
 |-----------|-----------|
-| Atendimentos | 10 |
-| Resposta encontrada | 90,0% |
-| Taxa de acerto (ajudou) | 90,0% |
-| Tempo médio para encontrar | 35,1 s |
+| Atendimentos | 14 |
+| Resposta encontrada | 92,9% |
+| Taxa de acerto (ajudou) | 92,9% |
+| Tempo médio para encontrar | 34,1 s |
 | Tentativas por atendimento | 1,0 |
 | Facilidade de uso (1 a 5) | 5,0 |
 
