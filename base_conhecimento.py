@@ -46,7 +46,7 @@ class BaseConhecimento:
         pontos = 0
         for palavra_chave in orientacao.palavras_chave:
             if normalizar(palavra_chave) in pergunta:
-                pontos += 3
+                pontos += 3 # EXEMPLO: palavras chaves = 'cartao do sus' = +3, 'sus' = +3, 'cartao' = +1; total = 7
         titulo = normalizar(orientacao.titulo)
         for palavra in set(pergunta.split()):
             if len(palavra) >= 4 and f" {palavra} " in titulo:

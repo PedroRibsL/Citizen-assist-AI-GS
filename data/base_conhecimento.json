@@ -47,7 +47,7 @@
     "id": 5,
     "categoria": "Transporte",
     "titulo": "Viagem interestadual grátis com a Carteira da Pessoa Idosa",
-    "palavras_chave": ["carteira do idoso", "carteira da pessoa idosa", "passe livre", "viagem interestadual", "passagem interestadual", "viajar de graca"],
+    "palavras_chave": ["carteira do idoso", "carteira da pessoa idosa", "passe livre", "viagem interestadual", "passagem interestadual", "viajar de graca", "carteirinha do idoso"],
     "resposta": "Quem tem 60 anos ou mais, renda de até 2 salários mínimos e está no CadÚnico pode pedir a Carteira da Pessoa Idosa. Ela dá direito a 2 vagas gratuitas por veículo em viagens de ônibus, trem ou barco entre estados. Se as vagas acabarem, o desconto é de pelo menos 50%. Não vale para avião.",
     "documentos": ["Conta gov.br", "Cadastro Único (CadÚnico) ativo"],
     "onde": "Site https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso ou CRAS da sua cidade",

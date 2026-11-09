@@ -1,0 +1,25 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo,nota
+2026-11-06 09:03,categoria,Denunciar violência ou maus-tratos contra pessoa idosa,9,True,True,1,50.2,
+2026-11-06 09:05,pergunta,como faço para ter remedio de graça?,3,True,True,1,37.6,
+2026-11-06 09:06,categoria,BPC/LOAS: benefício assistencial para idosos,8,True,True,1,46.4,5
+2026-11-06 10:13,pergunta,como faço para me aposentar?,6,True,True,1,29.0,
+2026-11-06 10:13,pergunta,como faço prova de vida?,7,True,True,1,27.1,
+2026-11-06 10:14,pergunta,tem como fazer exames gratuitos?,,False,False,1,37.7,
+2026-11-06 10:14,categoria,Vacinas gratuitas para quem tem 60 anos ou mais,2,True,True,1,19.8,5
+2026-11-06 10:16,pergunta,como funciona para pegar onibus de graça?,4,True,True,1,64.9,
+2026-11-06 10:17,categoria,Pedir a aposentadoria por idade,6,True,True,1,26.4,
+2026-11-06 10:17,categoria,BPC/LOAS: benefício assistencial para idosos,8,True,True,1,14.4,5
+2026-11-09 08:21,categoria,Fazer o Cartão Nacional de Saúde (Cartão SUS),1,True,True,1,36.6,
+2026-11-09 08:23,pergunta,aposentadoria por idade,6,True,True,1,31.4,
+2026-11-09 08:23,categoria,BPC/LOAS: benefício assistencial para idosos,8,True,True,1,33.4,
+2026-11-09 08:24,categoria,Ônibus urbano gratuito para idosos,4,True,True,1,25.0,5
+2026-11-09 12:06,pergunta,como faço cartao do sus?,1,True,True,1,29.7,
+2026-11-09 13:07,pergunta,como faco cartao do sus,1,True,True,1,14.0,
+2026-11-09 13:08,pergunta,como faco o cartao do sus,1,True,True,1,11.2,
+2026-11-09 13:09,categoria,Prova de vida do INSS,7,True,True,1,15.5,
+2026-11-09 13:11,pergunta,como faco cartao do sus,1,True,True,1,18.5,
+2026-11-09 13:12,categoria,Prova de vida do INSS,7,True,True,1,9.8,
+2026-11-09 17:06,pergunta,como faco cartao do sus?,1,True,True,1,17.6,
+2026-11-09 17:07,pergunta,como faco segunda via do rg?,,False,False,1,26.1,
+2026-11-09 17:07,categoria,Prova de vida do INSS,7,True,True,1,11.1,
+2026-11-09 17:17,pergunta,como faco a carteirinha do idoso?,5,True,True,1,14.9,
