@@ -85,7 +85,7 @@ A base tem 10 orientações em 4 categorias (Saúde, Transporte, Previdência e 
 | 2. Vacinas para quem tem 60 anos ou mais | https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/vacinacao-da-pessoa-idosa |
 | 3. Farmácia Popular | https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular |
 | 4. Ônibus urbano gratuito | https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm |
-| 5. Carteira da Pessoa Idosa (viagem interestadual) | https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso ou CRAS da sua cidade |
+| 5. Carteira da Pessoa Idosa (viagem interestadual) | https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso |
 | 6. Aposentadoria por idade | https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano |
 | 7. Prova de vida do INSS | https://www.gov.br/governodigital/pt-br/identidade/prova-de-vida |
 | 8. BPC/LOAS | https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso |
@@ -94,7 +94,7 @@ A base tem 10 orientações em 4 categorias (Saúde, Transporte, Previdência e 
 
 ## Resultado do teste com usuários
 
-Testamos o assistente com 3 pessoas de fora da equipe, somando 10 atendimentos. Não registramos nomes nem dados pessoais de ninguém. Os números abaixo vêm do próprio programa (opção 3 do menu).
+Testamos o assistente com 3 pessoas de fora da equipe, somando 14 atendimentos. Não registramos nomes nem dados pessoais de ninguém. Os números abaixo vêm do próprio programa (opção 3 do menu).
 
 | Indicador | Resultado |
 |-----------|-----------|
@@ -110,6 +110,8 @@ Testamos o assistente com 3 pessoas de fora da equipe, somando 10 atendimentos. 
 **O que observamos:** durante o teste, uma pessoa digitou a dúvida direto no menu principal, em vez de escolher a opção 1, e só viu "Opção inválida". Ela não sabia que a dúvida era digitada em outra tela.
 
 **Melhoria feita a partir do teste:** colocamos uma dica com dois exemplos de pergunta na tela de dúvida ("como pego remédio de graça?" e "tenho direito a ônibus grátis?"), para quem não sabe o que escrever. Isso ajuda, mas não resolve por completo o caso de quem digita no menu.
+
+Obs.: o historico.json do repositório tem 24 atendimentos, porque depois do teste com as 3 pessoas a gente continuou usando o programa para gravar o vídeo e fazer testes finais. A tabela acima considera só os 10 primeiros atendimentos, que são os do teste com as pessoas. Os outros 14 são nossos, como a pergunta sobre segunda via do RG, que fizemos de propósito no vídeo.
 
 ## Limitações
 
