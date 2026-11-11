@@ -94,7 +94,7 @@ A base tem 10 orientações em 4 categorias (Saúde, Transporte, Previdência e 
 
 ## Resultado do teste com usuários
 
-Testamos o assistente com 3 pessoas de fora da equipe, somando 14 atendimentos. Não registramos nomes nem dados pessoais de ninguém. Os números abaixo vêm do próprio programa (opção 3 do menu).
+Testamos o assistente com 4 pessoas de fora da equipe, somando 14 atendimentos. Não registramos nomes nem dados pessoais de ninguém. Os números abaixo vêm do próprio programa (opção 3 do menu).
 
 | Indicador | Resultado |
 |-----------|-----------|
@@ -113,7 +113,7 @@ Testamos o assistente com 3 pessoas de fora da equipe, somando 14 atendimentos. 
 
 ### Indicadores finais do projeto
 
-Depois do teste com as 3 pessoas, continuamos usando o programa para gravar o vídeo e realizar os testes finais. Por isso o `historico.json` e o `atendimentos.csv` do repositório têm 24 atendimentos no total, e esses são os números que aparecem no vídeo. A tabela acima considera só os 14 primeiros, que são os do teste com as pessoas.
+Depois do teste com as 4 pessoas, continuamos usando o programa para gravar o vídeo e realizar os testes finais. Por isso o `historico.json` e o `atendimentos.csv` do repositório têm 24 atendimentos no total, e esses são os números que aparecem no vídeo. A tabela acima considera só os 14 primeiros, que são os do teste com as pessoas.
 
 | Indicador | Resultado (24 atendimentos) |
 |-----------|-----------------------------|
