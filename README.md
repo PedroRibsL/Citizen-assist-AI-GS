@@ -111,7 +111,19 @@ Testamos o assistente com 3 pessoas de fora da equipe, somando 14 atendimentos. 
 
 **Melhoria feita a partir do teste:** colocamos uma dica com dois exemplos de pergunta na tela de dúvida ("como pego remédio de graça?" e "tenho direito a ônibus grátis?"), para quem não sabe o que escrever. Isso ajuda, mas não resolve por completo o caso de quem digita no menu.
 
-Obs.: o historico.json do repositório tem 24 atendimentos, porque depois do teste com as 3 pessoas a gente continuou usando o programa para gravar o vídeo e fazer testes finais. A tabela acima considera só os 10 primeiros atendimentos, que são os do teste com as pessoas. Os outros 14 são nossos, como a pergunta sobre segunda via do RG, que fizemos de propósito no vídeo.
+### Indicadores finais do projeto
+
+Depois do teste com as 3 pessoas, continuamos usando o programa para gravar o vídeo e realizar os testes finais. Por isso o `historico.json` e o `atendimentos.csv` do repositório têm 24 atendimentos no total, e esses são os números que aparecem no vídeo. A tabela acima considera só os 14 primeiros, que são os do teste com as pessoas.
+
+| Indicador | Resultado (24 atendimentos) |
+|-----------|-----------------------------|
+| Resposta encontrada | 91,7% |
+| Taxa de acerto (ajudou) | 91,7% |
+| Tempo médio para encontrar | 26,6 s |
+| Tentativas por atendimento | 1,0 |
+| Facilidade de uso (1 a 5) | 5,0 |
+
+Dúvidas sem solução: "tem como fazer exames gratuitos?", que veio de uma das 3 pessoas do teste, e "como faço a segunda via do RG?", que a gente perguntou de propósito no vídeo para mostrar o "não encontrei".
 
 ## Limitações
 
@@ -122,7 +134,7 @@ Obs.: o historico.json do repositório tem 24 atendimentos, porque depois do tes
 - Algumas regras variam de cidade para cidade, como o ônibus gratuito a partir dos 60 anos. O assistente só avisa que isso pode acontecer.
 - O menu só aceita números. Quem digita uma dúvida no menu recebe "Opção inválida".
 - O bloqueio de dados pessoais recusa perguntas com 8 ou mais dígitos ou com `@`. Ele não identifica nomes escritos no texto.
-- O teste foi pequeno (10 atendimentos). Os tempos incluem o tempo de leitura de quem estava usando, então não representam bem uma pessoa idosa de verdade.
+- O teste foi pequeno (14 atendimentos). Os tempos incluem o tempo de leitura de quem estava usando, então não representam bem uma pessoa idosa de verdade.
 - O assistente não é um canal oficial. Isso aparece em toda resposta.
 
 ## Vídeo técnico
