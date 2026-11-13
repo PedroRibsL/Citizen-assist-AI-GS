@@ -139,4 +139,4 @@ Dúvidas sem solução: "tem como fazer exames gratuitos?", que veio de uma das 
 
 ## Vídeo técnico
 
-[PREENCHER: link do YouTube, não listado]
+https://youtu.be/gfQ5kteIFuU
