@@ -89,7 +89,7 @@ A base tem 10 orientações em 4 categorias (Saúde, Transporte, Previdência e 
 | 6. Aposentadoria por idade | https://www.gov.br/pt-br/servicos/solicitar-aposentadoria-por-idade-trabalhador-urbano |
 | 7. Prova de vida do INSS | https://www.gov.br/governodigital/pt-br/identidade/prova-de-vida |
 | 8. BPC/LOAS | https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso |
-| 9. Disque 100 | https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=787 |
+| 9. Denunciar violência de idoso | https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=787 |
 | 10. Golpes contra aposentados | https://www.gov.br/inss/pt-br/assuntos/noticias/inss-alerta-aposentados-sao-vitimas-de-golpe-envolvendo-falsa-prova-de-vida |
 
 ## Resultado do teste com usuários
